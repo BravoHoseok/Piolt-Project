@@ -18,4 +18,4 @@ ___
 
 2. New CCH
     + In USA, people normally don't well use 'Auto' function of HVAC system. Thus, to boost the usage of 'Auto' function of HVAC system, new type of display was developed. This display shows user temperature set and inside temperature in a car as a thermometer and an arrow notation next to the thermometer. By showing how well control inside temperature in a car in the ways of correspondence between user temperature set (arrow notation) and inside temperature gauge demonstrated in the thermometer display,  users are intended to use 'Auto' function of HVAC system more frequently.
-    + I developed LCD driver and application algorithm that calculates control values used in displaying thermormeter gauge and arrow notation.
+    + I developed LCD driver and application algorithm that calculates control values used in displaying thermometer gauge and arrow notation.
